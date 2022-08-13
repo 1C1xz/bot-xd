@@ -6,10 +6,8 @@ game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(
 
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" TheRealCapArtist is a braindead skid."  ,"All")
 wait(2)
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("take alll that stuff off and show yo real avatar for once "  ,"All")
-wait(4)
-game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("you are not 14,15,16,17 or anything above you lier , you are 12 and in 6th grade"  ,"All")
-wait(2)
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("take all that stuff off and show yo real avatar for once "  ,"All")
+wait(1)
 game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer(" ez just flung your grease filled ekitten"  ,"All")
   end
 
